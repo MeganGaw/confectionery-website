@@ -20,3 +20,8 @@ p {
   color: white;
   font-family: 'Poiret One', cursive;
 }
+
+a:hover {
+  background-color: white;
+  color: black;
+}
