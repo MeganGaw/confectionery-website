@@ -8,17 +8,17 @@ header .nav {
 }
 
 .fancy {
-  font-family: 'Poiret One', cursive;
+  font-family: "Poiret One", cursive;
 }
 
 p {
-  font-family: 'Yantramanav', sans-serif;
+  font-family: "Yantramanav", sans-serif;
 }
 
 .btn {
   background-color: #412a0d;
   color: white;
-  font-family: 'Poiret One', cursive;
+  font-family: "Poiret One", cursive;
 }
 
 a:hover {
