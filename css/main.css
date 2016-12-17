@@ -1,0 +1,22 @@
+header {
+  background-color: #412a0d;
+  color: white;
+}
+
+header .nav {
+  color: white;
+}
+
+.fancy {
+  font-family: 'Poiret One', cursive;
+}
+
+p {
+  font-family: 'Yantramanav', sans-serif;
+}
+
+.btn {
+  background-color: #412a0d;
+  color: white;
+  font-family: 'Poiret One', cursive;
+}
