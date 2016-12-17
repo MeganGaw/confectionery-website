@@ -19,10 +19,14 @@ p {
   background-color: #412a0d;
   color: white;
   font-family: "Poiret One", cursive;
-  
+
 }
 
 a:hover {
   background-color: white;
   color: black;
+}
+
+footer {
+  background-image: url("../images/candy.svg");
 }
